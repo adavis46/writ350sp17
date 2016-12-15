@@ -46,7 +46,7 @@ Upon successful completion of WRIT 350, students will progress in the following 
 WRIT 350 online makes use of a variety of communication and collaboration tools. In addition to email, you should use the course's Slack channel to communicate with the instructor and each other. 
 
 ### Online Office Hours 
-I am generally available online and f2f M-F during regular (Central Time) business hours. Outside of these times, the fastest way to reach me is through Slack, followed by email. 
+I am generally available online and f2f M-F during regular (Central Time) business hours. Outside of these times, the fastest way to reach me is through Telegram or Slack, followed by email. 
 
 ### Attendance Polocy 
 Although our class does not meet face-to-face due to its online format, active participation is expected and required. Being an active participant in the class means that if you were not a member of the class the quality of the class would be noticeably affected (e.g., through the absence of your contributions to online discussion forums, participation in peer review, etc.).
