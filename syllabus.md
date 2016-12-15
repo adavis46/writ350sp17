@@ -102,10 +102,10 @@ If you receive a grade lower than 80% on a major assignment, you may revise and 
 
 Project Focus | Percent Grade
 ----------------|--------------
-Project 1: Information Design | (15%)    
-Project 2: Technical Documentation | (20%)    
-Project 3: Web/App Design and Usability | (20%)     
-Project 4: Writing for Wikipedia | (15%)    
-Blogs | (10%)    
-Codecademy Course | (10%)    
-Final Portfolio | (10%)    
+Project 1: Information Design | 15%   
+Project 2: Technical Documentation | 20%    
+Project 3: Web/App Design and Usability | 20%     
+Project 4: Writing for Wikipedia | 15%    
+Blogs | 10%    
+Codecademy Course | 10%    
+Final Portfolio | 10%    
