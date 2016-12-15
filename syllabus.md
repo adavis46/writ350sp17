@@ -29,8 +29,8 @@ Upon successful completion of WRIT 350, students will progress in the following 
 * Apply theoretical models to real-world communication scenarios and user experiences.
 
 *Purpose and Audience*
-*Understand how to construct profiles for digital audiences and users of information.
-*Develop information and content that adheres to the principles of universal design
+* Understand how to construct profiles for digital audiences and users of information.
+* Develop information and content that adheres to the principles of universal design
 
 *Research*
 * Use an inquiry-driven approach to identify key issues and topics in the fields of digital composition and technical communication
@@ -75,3 +75,28 @@ Many successful students begin going to the Writing Center with their first essa
 
 ### Library Resources
 University Librarians are available to help you find and evaluate sources for your papers. Go to the [library website](http://www.libraries.olemiss.edu/uml/) and click on “Ask A Librarian” for help via live chat, email, and phone. Librarians are available at the Reference Desk on first floor in the Information Commons.
+
+### Grades
+A grade of “D” or better is necessary to pass this class.
+
+A  93-100 | C+  77-79
+A-  90-92 | C   73-76
+B+  87-89 | C-  70-72
+B   83-86 | D   65-69
+B-  80-82 | F   64-below
+
+### Extensions
+I am happy to grant extensions on **major assignments** if I receive a written request at least 24 hours in advance of the deadline. I will not consider extensions for non-deliverable assignments or drafts. 
+Revise and Resubmit
+
+If you receive a grade lower than 80% on a major assignment, you may revise and resubmit it. You must write a proposal that lists specific aspects of the assignment that you will change (this list must go beyond the feedback you get from me). **Revise and resubmit proposals are due 5 business days after you receive a grade on an assignment. You will then have one week (7 days) to complete your revision.** The new grade will replace the original grade. 
+
+## Course Projects
+Project 1: Information Design                    (15%)    
+Project 2: Technical Documentation               (20%)    
+Project 3: Web/App Design and Usability          (20%)     
+Project 4: Writing for Wikipedia                 (15%)    
+
+Blogs                                            (10%)    
+Codecademy Course                                (10%)    
+Final Portfolio                                  (10%)    
