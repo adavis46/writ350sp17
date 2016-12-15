@@ -80,12 +80,17 @@ University Librarians are available to help you find and evaluate sources for yo
 A grade of “D” or better is necessary to pass this class.
 
 Letter Grade | Equivalency
-----------|--------------
-A  93-100 | C+  77-79
-A-  90-92 | C   73-76
-B+  87-89 | C-  70-72
-B   83-86 | D   65-69
-B-  80-82 | F   64-below
+-------------|--------------
+A  | 93-100 
+A- | 90-92 
+B+ | 87-89 
+B  | 83-86 
+B- | 80-82 
+C+ | 77-79
+C  | 73-76
+C- | 70-72
+D  | 65-69
+F  | 64-below
 
 ### Extensions
 I am happy to grant extensions on **major assignments** if I receive a written request at least 24 hours in advance of the deadline. I will not consider extensions for non-deliverable assignments or drafts. 
