@@ -1,6 +1,6 @@
 # WRIT 350 : Digital Writing
-## Web Section 1 | Spring 2017
-## Department of Writing & Rhetoric 
+**Web Section 1 | Spring 2017**  
+**Department of Writing & Rhetoric**   
 
 **Instructor:** Andrew D. Davis
 **Office:** Lamar Hall B-22 (3rd Floor, Suite B)
@@ -8,8 +8,8 @@
 **Phone:** 662-915-8819
 **Cell/Whatsapp:** 770-598-4935
 
-**Slack:** [writ350sp17](https://writ350sp17.slack.com)
-**Course Website:** [digitalwriting.net](http://digitalwriting.net)
+**Slack:** [writ350sp17](https://writ350sp17.slack.com)  
+**Course Website:** [digitalwriting.net](http://digitalwriting.net)  
 
 ## Required Texts
 Mike Markel. (2016). *Practical Strategies for Technical Communication.* 2nd Edition. New York: Bedford/St. Martins.
@@ -18,7 +18,7 @@ ISBN: [9781319003364](https://www.amazon.com/Practical-Strategies-Technical-Comm
 ## Course Description
 This course introduces fundamental concepts of the demands of writing for electronic audiences across a variety of platforms, with an emphasis on the interaction of the medium and the message. Writing 350 bridges the study of technical communication practice with Web 2.0 technologies and New Media composition. Students in this course will develop the vocabulary and practical skills to create, collaborate on, and deliver digital documents in a variety of media to real audiences and users. They will also build upon the rhetorical skills developed in Writing 250 by engaging in more sophisticated, deliverable-based research writing projects.
 
-## LearninG Outcomes
+## Learning Outcomes
 Upon successful completion of WRIT 350, students will progress in the following areas:
 *Process*
 * Recognize that digital composition and communication is process-based and situation-specific
