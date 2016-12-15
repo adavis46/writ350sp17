@@ -1,4 +1,5 @@
-# Week 1: January 23 - January 28
+# Week 1  
+**January 23-28**
 Welcome to Digital Writing. This semester marks the first time WRIT 350 is offered online. As such, you get to experience an experimental course that is probably a lot different from courses you've taken before. I want you to learn new ways of composing and communicating information, and this course will probably challenge you. However, I am here to make sure you succeed, and if we work together, I think this new course will be really great. 
 
 ## Objectives for Week 1
