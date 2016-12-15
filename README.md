@@ -1,5 +1,5 @@
 # WRIT 350 | Digital Writing
-This is the repository for WRIT 350 at the University of Mississippi. All course content is licensed CC-BY unless otherwise indicated. Contact [Andrew Davis](andrew@adavis46.io) for more information. 
+This is the repository for WRIT 350 at the University of Mississippi. All course content is licensed CC-BY unless otherwise indicated. Contact [Andrew Davis](mailto: andrew@adavis46.io) for more information. 
 
 ----
 
