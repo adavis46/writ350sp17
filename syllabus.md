@@ -80,7 +80,7 @@ University Librarians are available to help you find and evaluate sources for yo
 A grade of “D” or better is necessary to pass this class.
 
 Letter Grade Equivalency
-------------------------
+----------|--------------
 A  93-100 | C+  77-79
 A-  90-92 | C   73-76
 B+  87-89 | C-  70-72
