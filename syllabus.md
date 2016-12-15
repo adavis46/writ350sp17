@@ -6,7 +6,7 @@
 **Office:** Lamar Hall B-22 (3rd Floor, Suite B)  
 **Email:** [addavis@olemiss.edu](mailto:addavis@olemiss.edu)  
 **Phone:** 662-915-8819  
-**Cell/Whatsapp:** 770-598-4935  
+**Telegram:** adavis46 
 
 **Slack:** [writ350sp17](https://writ350sp17.slack.com)  
 **Course Website:** [digitalwriting.net](http://digitalwriting.net)  
@@ -41,6 +41,12 @@ Upon successful completion of WRIT 350, students will progress in the following 
 * Design content that is universally accessible and adaptable from the concept stage to the execution stage.
 
 ## Course Logistics
+
+### Communication
+WRIT 350 online makes use of a variety of communication and collaboration tools. In addition to email, you should use the course's Slack channel to communicate with the instructor and each other. 
+
+### Online Office Hours 
+I am generally available online and f2f M-F during regular (Central Time) business hours. Outside of these times, the fastest way to reach me is through Slack, followed by email. 
 
 ### Attendance Polocy 
 Although our class does not meet face-to-face due to its online format, active participation is expected and required. Being an active participant in the class means that if you were not a member of the class the quality of the class would be noticeably affected (e.g., through the absence of your contributions to online discussion forums, participation in peer review, etc.).
