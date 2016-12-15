@@ -18,9 +18,9 @@ PTSC Chapter 1: Introduction to Technical Communication
 PRSC Chapter 3: Writing Collaboratively  
 
 ## Required Readings (online)
-[A Vision of Students Today](https://www.youtube.com/watch?v=dGCJ46vyR9o)
-[The Medium is the Message](https://www.youtube.com/watch?v=OseOb_wBsi4)
-[Markdown Tutorial](http://www.markdowntutorial.com/)
+[A Vision of Students Today](https://www.youtube.com/watch?v=dGCJ46vyR9o)  
+[The Medium is the Message](https://www.youtube.com/watch?v=OseOb_wBsi4)  
+[Markdown Tutorial](http://www.markdowntutorial.com/)  
 
 ## Deliverables 
 1. Register Github account and send account username/email to ...
