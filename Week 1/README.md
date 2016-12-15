@@ -37,4 +37,4 @@ PRSC Chapter 3: Writing Collaboratively
 > Your post should be around 250 words.
 
 ## Discussion and Activities 
-1. Study the [University of Mississippi website](http://olemiss.edu). Focus on three measures of excellence in technical communication: clarity, accessibility, and professional appearance. How effectively does the UM home page meet each of these measures of excellence? In the Blackboard discussion forum, post your findings. be sure to address each of the three measures. Respond to at least one of your classmates' posts by the end of the week. 
+1. Study the [University of Mississippi website](http://olemiss.edu). Focus on three measures of excellence in technical communication: clarity, accessibility, and professional appearance (based on Ch 1 of PSTC). How effectively does the UM home page meet each of these measures of excellence? In the Blackboard discussion forum, post your findings. be sure to address each of the three measures. Respond to at least one of your classmates' posts by the end of the week. 
