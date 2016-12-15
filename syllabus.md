@@ -4,7 +4,7 @@
 
 **Instructor:** Andrew D. Davis  
 **Office:** Lamar Hall B-22 (3rd Floor, Suite B)  
-**Email:** [addavis@olemiss.edu](addavis@olemiss.edu)  
+**Email:** [addavis@olemiss.edu](mailto:addavis@olemiss.edu)  
 **Phone:** 662-915-8819  
 **Cell/Whatsapp:** 770-598-4935  
 
@@ -12,7 +12,7 @@
 **Course Website:** [digitalwriting.net](http://digitalwriting.net)  
 
 ## Required Texts
-Mike Markel. (2016). *Practical Strategies for Technical Communication.* 2nd Edition. New York: Bedford/St. Martins.
+Mike Markel. (2016). *Practical Strategies for Technical Communication.* 2nd Edition. New York: Bedford/St. Martins.  
 ISBN: [9781319003364](https://www.amazon.com/Practical-Strategies-Technical-Communication-Markel/dp/1319003362)
 
 ## Course Description
@@ -104,7 +104,6 @@ Project 1: Information Design | (15%)
 Project 2: Technical Documentation | (20%)    
 Project 3: Web/App Design and Usability | (20%)     
 Project 4: Writing for Wikipedia | (15%)    
-------------------------------
 Blogs | (10%)    
 Codecademy Course | (10%)    
 Final Portfolio | (10%)    
