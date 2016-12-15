@@ -94,11 +94,13 @@ F  | 64-below
 
 ### Extensions
 I am happy to grant extensions on **major assignments** if I receive a written request at least 24 hours in advance of the deadline. I will not consider extensions for non-deliverable assignments or drafts. 
-Revise and Resubmit
 
+### Revise and Resubmit
 If you receive a grade lower than 80% on a major assignment, you may revise and resubmit it. You must write a proposal that lists specific aspects of the assignment that you will change (this list must go beyond the feedback you get from me). **Revise and resubmit proposals are due 5 business days after you receive a grade on an assignment. You will then have one week (7 days) to complete your revision.** The new grade will replace the original grade. 
 
-Course Projects | Percent Grade
+### Course Projects
+
+Project Focus | Percent Grade
 ----------------|--------------
 Project 1: Information Design | (15%)    
 Project 2: Technical Documentation | (20%)    
