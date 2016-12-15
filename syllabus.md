@@ -3,12 +3,17 @@
 ## Department of Writing & Rhetoric 
 
 **Instructor:** Andrew D. Davis
+
 **Office:** Lamar Hall B-22 (3rd Floor, Suite B)
+
 **Email:** [addavis@olemiss.edu](addavis@olemiss.edu)
+
 **Phone:** 662-915-8819
+
 **Cell/Whatsapp:** 770-598-4935
 
 **Slack:** [writ350sp17](https://writ350sp17.slack.com)
+
 **Course Website:** [digitalwriting.net](http://digitalwriting.net)
 
 ## Required Texts
