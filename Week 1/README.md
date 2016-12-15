@@ -5,7 +5,6 @@ Welcome to Digital Writing. This semester marks the first time WRIT 350 is offer
 ## Objectives for Week 1
 
 * Review course platforms and initialize spaces 
-    * [Github](https://github.com/adavis46/writ350sp17)
     * [Blackboard](http://blackboard.olemiss.edu)
     * Blogs (your choice of platform)
     * [Slack](https://writ350sp17.slack.com/)
@@ -23,9 +22,9 @@ PRSC Chapter 3: Writing Collaboratively
 [Markdown Tutorial](http://www.markdowntutorial.com/)  
 
 ## Deliverables 
-1. Register Github account and send account username/email to ...
-2. Create blog using platform of choice (Edblogs/Blogger/Jekyll/Medium) and submit link to [Github Blog URL wiki](https://github.com/adavis46/writ350sp17/wiki/Blog-URLs).
-3. Post first blog entry to the following prompt:  
+1. Create blog using platform of choice (Edblogs/Blogger/Jekyll/Medium) and submit link to the Blackboard wiki.
+2. Create an "About Me" page on your blog and include a brief paragraph about your professional interests in Digital Writing. 
+2. Post first blog entry to the following prompt:  
 
 > The video, "A Vision of Students Today," is now almost 9 years old. Do you think its message still rings true? For your first blog entry, write about your "vision of students today." Consider the following questions: 
 
