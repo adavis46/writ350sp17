@@ -27,5 +27,5 @@ PRSC Chapter 3: Writing Collaboratively
 3. Post first blog entry to the following prompt:  
 
 > The video, "A Vision of Students Today," is now almost 9 years old. Do you think its message still rings true? For your first blog entry, write about your "vision of students today." Consider the following questions: 
- 
-What is the role of collaboration in your day-to-day experience as a student?Which technologies do you rely upon for your school work? Which ones do you rely on for your personal life? Is there any overlap? What do you think a "vision of students" today will be in 8 more years?Your post should be around 250 words.
+
+> What is the role of collaboration in your day-to-day experience as a student?Which technologies do you rely upon for your school work? Which ones do you rely on for your personal life? Is there any overlap? What do you think a "vision of students" today will be in 8 more years?Your post should be around 250 words.
