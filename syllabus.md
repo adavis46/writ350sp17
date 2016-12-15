@@ -98,12 +98,13 @@ Revise and Resubmit
 
 If you receive a grade lower than 80% on a major assignment, you may revise and resubmit it. You must write a proposal that lists specific aspects of the assignment that you will change (this list must go beyond the feedback you get from me). **Revise and resubmit proposals are due 5 business days after you receive a grade on an assignment. You will then have one week (7 days) to complete your revision.** The new grade will replace the original grade. 
 
-## Course Projects
-Project 1: Information Design                    (15%)    
-Project 2: Technical Documentation               (20%)    
-Project 3: Web/App Design and Usability          (20%)     
-Project 4: Writing for Wikipedia                 (15%)    
-
-Blogs                                            (10%)    
-Codecademy Course                                (10%)    
-Final Portfolio                                  (10%)    
+Course Projects | Percent Grade
+----------------|--------------
+Project 1: Information Design | (15%)    
+Project 2: Technical Documentation | (20%)    
+Project 3: Web/App Design and Usability | (20%)     
+Project 4: Writing for Wikipedia | (15%)    
+------------------------------
+Blogs | (10%)    
+Codecademy Course | (10%)    
+Final Portfolio | (10%)    
