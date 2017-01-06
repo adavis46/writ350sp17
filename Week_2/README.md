@@ -37,7 +37,7 @@ This memo should be around 500 words. Submit to Blackboard.
 1. Study the website of a large manufacturer of computers or consumer electronics (phones, tablets, etc). Identify t hree different pages that address different audiences and fulfill different purposes. Here is an example:
 
 > Name of Page: Lenovo Group Fact Page 
-> Audience: Prospective Investors
-> Purpose: persuade the prospective investor to invest in the company. 
+Audience: Prospective Investors 
+Purpose: persuade the prospective investor to invest in the company. 
 
 Post your findings and links to the pages you identfied in a discussion forunm post. Respond to at least one of your classmates' posts by the end of the week. 
