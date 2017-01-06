@@ -17,7 +17,7 @@ Bolter, *Writing Spaces* Ch 1-2 (PDF)
 [George R.R. Martin Still Uses a DOS Word Processor](https://www.youtube.com/watch?v=X5REM-3nWHg)   
 
 ## Deliverables 
-1. Compose a proposal memo for project #1. Your memo should follow standard format (pp. 253) and provide the following information: 
+Compose a proposal memo for project #1. Your memo should follow standard format (pp. 253) and provide the following information: 
 
 * Concept, principle, or process you want to illustrate
 * Medium you plan to use for the project (infographic, website, other form of illustration)
@@ -26,7 +26,7 @@ Bolter, *Writing Spaces* Ch 1-2 (PDF)
 
   This memo should be around 500 words. Submit to Blackboard. 
 
-2. Compose a blog entry to the following prompt: 
+Compose a blog entry to the following prompt: 
 
 > This week, you're reading about what Jay Bolter defines as "remediation," or the tendency of new technologies or media to mimic older forms. For this post, think of an example of remediation that Bolter does not mention and describe it. Ideally, this will be something that gas gone through several remediations (for example, phonograph to 8 track to tape to CD to MP3).
 
@@ -34,7 +34,7 @@ Bolter, *Writing Spaces* Ch 1-2 (PDF)
 
 
 ## Discussion and Activities 
-1. Study the website of a large manufacturer of computers or consumer electronics (phones, tablets, etc). Identify t hree different pages that address different audiences and fulfill different purposes. Here is an example:
+Study the website of a large manufacturer of computers or consumer electronics (phones, tablets, etc). Identify t hree different pages that address different audiences and fulfill different purposes. Here is an example:
 
 > Name of Page: Lenovo Group Fact Page   
 Audience: Prospective Investors   
