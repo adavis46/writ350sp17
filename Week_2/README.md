@@ -24,7 +24,7 @@ Bolter, *Writing Spaces* Ch 1-2 (PDF)
 * Tools you plan to use for the project (their availability, cost, limitations) 
 * Audience profile and analysis 
 
-This memo should be around 500 words. Submit to Blackboard. 
+  This memo should be around 500 words. Submit to Blackboard. 
 
 2. Compose a blog entry to the following prompt: 
 
