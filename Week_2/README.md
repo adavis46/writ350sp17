@@ -17,16 +17,16 @@ Bolter, *Writing Spaces* Ch 1-2 (PDF)
 [George R.R. Martin Still Uses a DOS Word Processor](https://www.youtube.com/watch?v=X5REM-3nWHg)   
 
 ## Deliverables 
-Compose a proposal memo for project #1. Your memo should follow standard format (pp. 253) and provide the following information: 
+1. Compose a proposal memo for project #1. Your memo should follow standard format (pp. 253) and provide the following information: 
 
 * Concept, principle, or process you want to illustrate
 * Medium you plan to use for the project (infographic, website, other form of illustration)
 * Tools you plan to use for the project (their availability, cost, limitations) 
 * Audience profile and analysis 
 
-  This memo should be around 500 words. Submit to Blackboard. 
+This memo should be around 500 words. Submit to Blackboard. 
 
-Compose a blog entry to the following prompt: 
+2. Compose a blog entry to the following prompt: 
 
 > This week, you're reading about what Jay Bolter defines as "remediation," or the tendency of new technologies or media to mimic older forms. For this post, think of an example of remediation that Bolter does not mention and describe it. Ideally, this will be something that gas gone through several remediations (for example, phonograph to 8 track to tape to CD to MP3).
 
