@@ -19,10 +19,10 @@ PRSC Chapter 3: Writing Collaboratively
 ## Required Readings (online)
 [A Vision of Students Today](https://www.youtube.com/watch?v=dGCJ46vyR9o)  
 [The Medium is the Message](https://www.youtube.com/watch?v=OseOb_wBsi4)  
-[Edblogs Tutorials](http://edblogs.olemiss.edu/help/)
+[Markdown Tutorial](http://www.markdowntutorial.com/)  
 
 ## Deliverables 
-1. Create blog using UM Edblogs and join the class blog "addaviswrit350sp17"
+1. Create blog using platform of choice (Edblogs/Blogger/Jekyll/Medium) and submit link to the Blackboard wiki.
 2. Create an "About Me" page on your blog and include a brief paragraph about your professional interests in Digital Writing. 
 2. Post first blog entry to the following prompt:  
 
