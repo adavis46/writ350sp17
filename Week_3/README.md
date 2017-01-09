@@ -1,7 +1,7 @@
 # Week 3  
 **Feb 5 - 11 **  
 
-## Objectives for Week 2
+## Objectives 
 * Discuss advantages and disadvantages of remediation 
 * Conduct digital research
 * Evaluate source material for technical documents 

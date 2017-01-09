@@ -2,11 +2,11 @@
 **January 23-28**  
 Welcome to Digital Writing. This semester marks the first time WRIT 350 is offered online. As such, you get to experience an experimental course that is probably a lot different from courses you've taken before. I want you to learn new ways of composing and communicating information, and this course will probably challenge you. However, I am here to make sure you succeed, and if we work together, I think this new course will be really great. 
 
-## Objectives for Week 1
+## Objectives 
 
 * Review course platforms and initialize spaces 
     * [Blackboard](http://blackboard.olemiss.edu)
-    * Blogs (your choice of platform)
+    * [Blogs](http://edblogs.olemiss.edu)
     * [Slack](https://writ350sp17.slack.com/)
 * Introduce "digital writing" as a concept and review syllabus/course projects 
 * Begin work for Project 1: Information Design
@@ -14,7 +14,6 @@ Welcome to Digital Writing. This semester marks the first time WRIT 350 is offer
 ## Required Readings (textbook)
 (PSTC = *Practical Strategies for Technical Communication*)  
 PTSC Chapter 1: Introduction to Technical Communication    
-PRSC Chapter 3: Writing Collaboratively  
 
 ## Required Readings (online)
 [A Vision of Students Today](https://www.youtube.com/watch?v=dGCJ46vyR9o)  
